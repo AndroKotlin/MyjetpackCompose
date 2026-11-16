@@ -154,6 +154,7 @@ fun UserCard(user: User,onItemClick:(User)->Unit){
 @Composable
 fun GreetingPreview() {
     MaterialTheme {
+        // Preview Function
         UserScreen()
     }
 }
