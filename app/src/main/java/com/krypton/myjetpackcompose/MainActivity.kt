@@ -155,6 +155,7 @@ fun UserCard(user: User,onItemClick:(User)->Unit){
 fun GreetingPreview() {
     MaterialTheme {
         // Updated Preview Function
+        // Comment from GitHub
         UserScreen()
     }
 }
